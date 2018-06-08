@@ -1,7 +1,7 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = 'nnlr'
-version = '0.0.1-2'
+version = '0.0.1-3'
 
 description = {
   summary = 'nnlr',
@@ -13,13 +13,13 @@ description = {
 
 -- LuaDist source
 source = {
-  tag = "0.0.1-2",
+  tag = "0.0.1-3",
   url = "git://github.com/LuaDist-testing/nnlr.git"
 }
 -- Original source
 -- source = {
 --   url = 'git://github.com/gpleiss/nnlr',
---   tag = 'v0.0.1-2',
+--   tag = 'v0.0.1-3',
 -- }
 
 dependencies = {
