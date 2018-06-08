@@ -1,7 +1,5 @@
--- This file was automatically generated for the LuaDist project.
-
 package = 'nnlr'
-version = '0.0.1-1'
+version = '0.0.1-2'
 
 description = {
   summary = 'nnlr',
@@ -11,16 +9,10 @@ description = {
   license = 'MIT'
 }
 
--- LuaDist source
 source = {
-  tag = "0.0.1-1",
-  url = "git://github.com/LuaDist-testing/nnlr.git"
+  url = 'git://github.com/gpleiss/nnlr',
+  tag = 'v0.0.1-2',
 }
--- Original source
--- source = {
---   url = 'git://github.com/gpleiss/nnlr',
---   tag = 'v0.0.1-1',
--- }
 
 dependencies = {
   'torch >= 7.0',
